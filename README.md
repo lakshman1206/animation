@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-04-25 at 9 32 24 AM (2)](https://github.com/lakshman1206/animation/assets/129931784/a08c23fb-b0ec-4499-b746-360f256ad855)# Ex.No: 11 Develop a application to add animations to ImageView,Move,blink,fade,clockwise,zoom,slide operations are perform in android studio.
+# Ex.No: 11 Develop a application to add animations to ImageView,Move,blink,fade,clockwise,zoom,slide operations are perform in android studio.
 
 
 ## AIM:
